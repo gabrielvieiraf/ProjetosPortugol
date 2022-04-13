@@ -4,7 +4,7 @@ Inicio
       Escreval("Nome: ", "Gabriel Vieira")
       Escreval("Idade: ", 21)
       Escreval("Altura: ", 1.85)
-      Escreval("Criança: ", falso)
+      Escreval("CrianÃ§a: ", falso)
 
 
 Fimalgoritmo
